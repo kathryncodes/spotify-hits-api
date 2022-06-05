@@ -3,7 +3,7 @@ const app = express();
 
 const fs = require('fs');
 
-const jsonData = fs.readFileSync('../spotify-hits-api/data.json', "utf8", (err, jsonString) => {
+const jsonData = fs.readFileSync(__dirname + '/data.json', "utf8", (err, jsonString) => {
     if(err){
         console.log("error");
         return;
