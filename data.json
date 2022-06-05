@@ -1,0 +1,527 @@
+{
+    "data" : {
+        "2021" : {
+            "top-song" : {
+                "song-1" : {
+                    "title" : "drivers license",
+                    "artist" : "Olivia Rodrigo"
+                },
+                "song-2" : {
+                    "title" : "MONTERO (Call Me By Your Name) ",
+                    "artist" : "Lil Nas X"
+                },
+                "song-3" : {
+                    "title" : "STAY (with Justin Bieber)",
+                    "artist" : "The Kid LAROI"
+                },
+                "song-4" : {
+                    "title" : "good 4 u",
+                    "artist" : "Olivia Rodrigo"
+                },
+                "song-5" : {
+                    "title" : "Levitating (feat. DaBaby)” ",
+                    "artist" : "Dua Lipa"
+                }
+            },
+            "top-artist" : {
+                "artist-1" : "Bad Bunny",
+                "artist-2" : "Taylor Swift",
+                "artist-3" : "BTS",
+                "artist-4" : "Drake",
+                "artist-5" : "Justin Bieber"
+            },
+            "top-album" : {
+                "album-1" : {
+                    "title" : "SOUR",
+                    "artist" : "Olivia Rodrigo",
+                    "release-date" : "May 21, 2021"
+                }, 
+                "album-2" : {
+                    "title" : "Future Nostalgia ",
+                    "artist" : "Dua Lipa",
+                    "release-date" : "March 27, 2020"
+                },
+                "album-3" : {
+                    "title" : "Justice",
+                    "artist" : "Justin Bieber",
+                    "release-date" : "March 19, 2021"
+                },
+                "album-4" : {
+                    "title" : "=",
+                    "artist" : "Ed Sheeran",
+                    "release-date" : "October 29, 2021"
+                },
+                "album-5" : {
+                    "title" : "Planet Her ",
+                    "artist" : "Doja Cat",
+                    "release-date" : "June 25, 2021"
+                }
+            }
+        },
+        "2020" : {
+            "top-song" : {
+                "song-1" : {
+                    "title" : "Blinding Lights",
+                    "artist" : "The Weeknd"
+                },
+                "song-2" : {
+                    "title" : "Dance Monkey",
+                    "artist" : "Tones And I"
+                },
+                "song-3" : {
+                    "title" : "The Box",
+                    "artist" : "Roddy Ricch"
+                },
+                "song-4" : {
+                    "title" : "Roses - Imanbek Remix",
+                    "artist" : "Imanbek and SAINt JHN"
+                },
+                "song-5" : {
+                    "title" : "Don't Start Now",
+                    "artist" : "Dua Lipa"
+                }
+            },
+            "top-artist" : {
+                "artist-1" : "Bad Bunny",
+                "artist-2" : "Drake",
+                "artist-3" : "J Balvin",
+                "artist-4" : "Juice WRLD",
+                "artist-5" : "The Weeknd"
+            },
+            "top-album" : {
+                "album-1" : {
+                    "title" : "YHLQMDLG",
+                    "artist" : "Bad Bunny",
+                    "release-date" : "February 29, 2020"
+                }, 
+                "album-2" : {
+                    "title" : "After Hours",
+                    "artist" : "The Weeknd",
+                    "release-date" : "March 20, 2020"
+                },
+                "album-3" : {
+                    "title" : "Hollywood's Bleeding",
+                    "artist" : "Post Malone",
+                    "release-date" : "September 6, 2019"
+                },
+                "album-4" : {
+                    "title" : "Fine Line",
+                    "artist" : "Harry Styles",
+                    "release-date" : "December 13, 2019"
+                },
+                "album-5" : {
+                    "title" : "Future Nostalgia",
+                    "artist" : "Dua Lipa",
+                    "release-date" : "March 27, 2020"
+                }
+            }
+        },
+        "2019" : {
+            "top-song" : {
+                "song-1" : {
+                    "title" : "Señorita",
+                    "artist" : "Camila Cabello, Shawn Mendes"
+                },
+                "song-2" : {
+                    "title" : "bad guy",
+                    "artist" : "Billie Eilish"
+                },
+                "song-3" : {
+                    "title" : "Sunflower",
+                    "artist" : "Post Malone, Swae Lee"
+                },
+                "song-4" : {
+                    "title" : "7 Rings",
+                    "artist" : "Ariana Grande"
+                },
+                "song-5" : {
+                    "title" : "Old Town Road - Remix",
+                    "artist" : "Lil Nas X (feat. Billy Ray Cyrus)"
+                }
+            },
+            "top-artist" : {
+                "artist-1" : "Post Malone",
+                "artist-2" : "Billie Eilish",
+                "artist-3" : "Ariana Grande",
+                "artist-4" : "Ed Sheeran",
+                "artist-5" : "Bad Bunny"
+            },
+            "top-album" : {
+                "album-1" : {
+                    "title" : "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+                    "artist" : "Billie Eilish",
+                    "release-date" : "March 29, 2019"
+                }, 
+                "album-2" : {
+                    "title" : "Hollywood's Bleeding",
+                    "artist" : "Post Malone",
+                    "release-date" : "September 6, 2019"
+                },
+                "album-3" : {
+                    "title" : "thank u, next",
+                    "artist" : "Ariana Grande",
+                    "release-date" : "February 8, 2019"
+                },
+                "album-4" : {
+                    "title" : "No.6 Collaborations Project",
+                    "artist" : "Ed Sheeran",
+                    "release-date" : "July 12, 2019"
+                },
+                "album-5" : {
+                    "title" : "Shawn Mendes",
+                    "artist" : "Shawn Mendes",
+                    "release-date" : "May 25, 2018"
+                }
+            }
+        },
+        "2018" : {
+            "top-song" : {
+                "song-1" : {
+                    "title" : "God's Plan",
+                    "artist" : "Drake"
+                },
+                "song-2" : {
+                    "title" : "SAD!",
+                    "artist" : "XXXTENTACION"
+                },
+                "song-3" : {
+                    "title" : "rockstar (ft. 21 Savage)",
+                    "artist" : "Post Malone"
+                },
+                "song-4" : {
+                    "title" : "Psycho (feat. Ty Dolla $ign)",
+                    "artist" : "Post Malone"
+                },
+                "song-5" : {
+                    "title" : "In My Feelings",
+                    "artist" : "Drake"
+                }
+            },
+            "top-artist" : {
+                "artist-1" : "Drake",
+                "artist-2" : "Post Malone",
+                "artist-3" : "XXXTENTACION",
+                "artist-4" : "J Balvin",
+                "artist-5" : "Ed Sheeran"
+            },
+            "top-album" : {
+                "album-1" : {
+                    "title" : "Scorpion",
+                    "artist" : "Drake",
+                    "release-date" : "June 29, 2018"
+                }, 
+                "album-2" : {
+                    "title" : "beerbongs & bentleys",
+                    "artist" : "Post Malone",
+                    "release-date" : "April 27, 2018"
+                },
+                "album-3" : {
+                    "title" : "?",
+                    "artist" : "XXXTENTACION",
+                    "release-date" : "March 16, 2018"
+                },
+                "album-4" : {
+                    "title" : "Dua Lipa",
+                    "artist" : "Dua Lipa",
+                    "release-date" : "June 2, 2017"
+                },
+                "album-5" : {
+                    "title" : "&#247",
+                    "artist" : "Ed Sheeran",
+                    "release-date" : "March 3, 2017"
+                }
+            }
+        },
+        "2017" : {
+            "top-song" : {
+                "song-1" : {
+                    "title" : "Shape of You",
+                    "artist" : "Ed Sheeran"
+                },
+                "song-2" : {
+                    "title" : "Despacito (Remix)",
+                    "artist" : "Luis Fonsi, Daddy Yankee feat. Justin Bieber"
+                },
+                "song-3" : {
+                    "title" : "Despacito",
+                    "artist" : "Luis Fonsi feat. Daddy Yankee"
+                },
+                "song-4" : {
+                    "title" : "Something Just Like This",
+                    "artist" : "The Chainsmokers & Coldplay"
+                },
+                "song-5" : {
+                    "title" : "I'm the One",
+                    "artist" : "DJ Khaled feat. Justin Bieber, Quavo, Chance the Rapper, Lil Wayne"
+                }
+            },
+            "top-artist" : {
+                "artist-1" : "Ed Sheeran",
+                "artist-2" : "Drake",
+                "artist-3" : "The Weeknd",
+                "artist-4" : "Kendrick Lamar",
+                "artist-5" : "The Chainsmokers"
+            },
+            "top-album" : {
+                "album-1" : {
+                    "title" : "&#247",
+                    "artist" : "Ed Sheeran",
+                    "release-date" : "March 3, 2017"
+                }, 
+                "album-2" : {
+                    "title" : "More Life",
+                    "artist" : "Drake",
+                    "release-date" : "March 18, 2017"
+                },
+                "album-3" : {
+                    "title" : "DAMN.",
+                    "artist" : "Kendrick Lamar",
+                    "release-date" : "April 14, 2017"
+                },
+                "album-4" : {
+                    "title" : "Starboy",
+                    "artist" : "The Weeknd",
+                    "release-date" : "November 25, 2016"
+                },
+                "album-5" : {
+                    "title" : "Stoney",
+                    "artist" : "Post Malone",
+                    "release-date" : "December 9, 2016"
+                }
+            }
+        },
+        "2016" : {
+            "top-song" : {
+                "song-1" : {
+                    "title" : "One Dance (feat. WizKid and Kyla)",
+                    "artist" : "Drake"
+                },
+                "song-2" : {
+                    "title" : "I Took A Pill in Ibiza - Seeb Remix",
+                    "artist" : "Mike Posner"
+                },
+                "song-3" : {
+                    "title" : "Don't Let Me Down (feat. Daya)",
+                    "artist" : "The Chainsmokers"
+                },
+                "song-4" : {
+                    "title" : "Work (feat. Drake)",
+                    "artist" : "Rihanna"
+                },
+                "song-5" : {
+                    "title" : "Cheap Thrills",
+                    "artist" : "Sia"
+                }
+            },
+            "top-artist" : {
+                "artist-1" : "Drake",
+                "artist-2" : "Justin Bieber",
+                "artist-3" : "Rihanna",
+                "artist-4" : "Twenty One Pilots",
+                "artist-5" : "Kanye West"
+            },
+            "top-album" : {
+                "album-1" : {
+                    "title" : "Views",
+                    "artist" : "Drake",
+                    "release-date" : "April 29, 2016"
+                }, 
+                "album-2" : {
+                    "title" : "Purpose",
+                    "artist" : "Justin Bieber",
+                    "release-date" : "November 13, 2015"
+                },
+                "album-3" : {
+                    "title" : "ANTI",
+                    "artist" : "Rihanna",
+                    "release-date" : "January 28, 2016"
+                },
+                "album-4" : {
+                    "title" : "Blurryface",
+                    "artist" : "Twenty One Pilots",
+                    "release-date" : "May 17, 2015"
+                },
+                "album-5" : {
+                    "title" : "Beauty Behind The Madness",
+                    "artist" : "The Weeknd",
+                    "release-date" : "August 28, 2015"
+                }
+            }
+        },
+        "2015" : {
+            "top-song" : {
+                "song-1" : {
+                    "title" : "Lean On (feat. MØ & DJ Snake)",
+                    "artist" : "Major Lazer"
+                },
+                "song-2" : {
+                    "title" : "Cheerleader - Felix Jaehn Remix Radio Edit",
+                    "artist" : "OMI"
+                },
+                "song-3" : {
+                    "title" : "Uptown Funk ",
+                    "artist" : "Mark Ronson"
+                },
+                "song-4" : {
+                    "title" : "See You Again (feat. Charlie Puth)",
+                    "artist" : "Wiz Khalifa"
+                },
+                "song-5" : {
+                    "title" : "Love Me Like You Do - From 'Fifty Shades Of Grey'",
+                    "artist" : "Ellie Goulding"
+                }
+            },
+            "top-artist" : {
+                "artist-1" : "Drake",
+                "artist-2" : "Ed Sheeran",
+                "artist-3" : "The Weeknd",
+                "artist-4" : "Maroon 5",
+                "artist-5" : "Kanye West"
+            },
+            "top-album" : {
+                "album-1" : {
+                    "title" : "Beauty Behind The Madness",
+                    "artist" : "The Weeknd",
+                    "release-date" : "August 28, 2015"
+                }, 
+                "album-2" : {
+                    "title" : "If You're Reading This It's Too Late ",
+                    "artist" : "Drake",
+                    "release-date" : "February 13, 2015"
+                },
+                "album-3" : {
+                    "title" : "Peace Is The Mission ",
+                    "artist" : "Major Lazer",
+                    "release-date" : "June 1, 2015"
+                },
+                "album-4" : {
+                    "title" : "Stories",
+                    "artist" : "Avicii",
+                    "release-date" : "October 2, 2015"
+                },
+                "album-5" : {
+                    "title" : "Title",
+                    "artist" : "Meghan Trainor",
+                    "release-date" : "January 9, 2015"
+                }
+            }
+        },
+        "2014" : {
+            "top-song" : {
+                "song-1" : {
+                    "title" : "Happy - From 'Despicable Me 2'",
+                    "artist" : "Pharrell Williams"
+                },
+                "song-2" : {
+                    "title" : "Rather Be (feat. Jess Glynne)",
+                    "artist" : "Clean Bandit"
+                },
+                "song-3" : {
+                    "title" : "Summer",
+                    "artist" : "Calvin Harris"
+                },
+                "song-4" : {
+                    "title" : "Dark Horse ",
+                    "artist" : "Katy Perry"
+                },
+                "song-5" : {
+                    "title" : "All of Me ",
+                    "artist" : "John Legend"
+                }
+            },
+            "top-artist" : {
+                "artist-1" : "Ed Sheeran",
+                "artist-2" : "Eminem",
+                "artist-3" : "Coldplay",
+                "artist-4" : "Calvin Harris",
+                "artist-5" : "Katy Perry"
+            },
+            "top-album" : {
+                "album-1" : {
+                    "title" : "x",
+                    "artist" : "Ed Sheeran",
+                    "release-date" : "June 20, 2014"
+                }, 
+                "album-2" : {
+                    "title" : "In The Lonely Hour ",
+                    "artist" : "Sam Smith",
+                    "release-date" : "May 26, 2014"
+                },
+                "album-3" : {
+                    "title" : "The New Classic",
+                    "artist" : "Iggy Azalea",
+                    "release-date" : "April 21, 2014"
+                },
+                "album-4" : {
+                    "title" : "G I R L",
+                    "artist" : "Pharrell Williams",
+                    "release-date" : "March 3, 2014"
+                },
+                "album-5" : {
+                    "title" : "My Everything",
+                    "artist" : "Ariana Grande",
+                    "release-date" : "August 25, 2014"
+                }
+            }
+        },
+        "2013" : {
+            "top-song" : {
+                "song-1" : {
+                    "title" : "Can't Hold Us",
+                    "artist" : "Macklemore & Ryan Lewis feat. Ray Dalton"
+                },
+                "song-2" : {
+                    "title" : "Wake Me Up",
+                    "artist" : "Avicii"
+                },
+                "song-3" : {
+                    "title" : "Thrift Shop",
+                    "artist" : "Macklemore & Ryan Lewis feat. Wanz"
+                },
+                "song-4" : {
+                    "title" : "Get Lucky",
+                    "artist" : "Daft Punk feat. Pharrell"
+                },
+                "song-5" : {
+                    "title" : "Radioactive",
+                    "artist" : "Imagine Dragons"
+                }
+            },
+            "top-artist" : {
+                "artist-1" : "Macklemore & Ryan Lewis",
+                "artist-2" : "Avicii",
+                "artist-3" : "Daft Punk",
+                "artist-4" : "Eminem",
+                "artist-5" : "Imagine Dragons"
+            },
+            "top-album" : {
+                "album-1" : {
+                    "title" : "The Heist",
+                    "artist" : "Macklemore & Ryan Lewis",
+                    "release-date" : "October 9, 2012"
+                }, 
+                "album-2" : {
+                    "title" : "18 Months",
+                    "artist" : "Calvin Harris",
+                    "release-date" : "October 26, 2012"
+                },
+                "album-3" : {
+                    "title" : "Night Visions",
+                    "artist" : "Imagine Dragons",
+                    "release-date" : "September 4, 2012"
+                },
+                "album-4" : {
+                    "title" : "The Truth About Love",
+                    "artist" : "P!nk",
+                    "release-date" : "September 14, 2012"
+                },
+                "album-5" : {
+                    "title" : "Unorthodox Jukebox",
+                    "artist" : "Bruno Mars",
+                    "release-date" : "December 7, 2012"
+                }
+            }
+        }
+    }
+}
+

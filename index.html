@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotify Hits API</title>
+    <style>
+        body{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            background-color: #b2cda9;
+            font-family: sans-serif;
+        }
+        section{
+            margin-top: 2%;
+            padding: 1% 2%;
+            border-radius: 25px;
+            border: none;
+            text-align: left;
+            background-color: #FFFFFF75
+        }
+       code {
+            background-color: #78787875;
+            border-radius: 5px;
+            padding: 5px 10px;
+        }
+        section > section{
+            border-radius: 5px;
+            margin-bottom: 2%;
+        }
+    </style>
+</head>
+<body>
+    <h1>Spotify Hits API</h1>
+    <p>This API includes the top 5 most-streamed songs, albums and artists on Spotify for the years 2013 - 2021</p>
+    <section>
+    <h2>Query Parameters</h2>
+    <p>To get the full dataset, use the <code>/api</code> endpoint</p>
+    <p>To get the data for a specific year, use the <code>/api/year</code> endpoint</p>
+    <section>
+        <p>Note: This API only goes back to 2013 in order to keep the same format across all years.</p>
+    </section>
+</section>
+</body>
+</html>
